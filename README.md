@@ -2,7 +2,7 @@
 
 ## Overview
 
-GrokAgent is a Multi-Agent System that provides various specialized agents to assist with tasks ranging from web searches and financial analysis to weather updates and joke delivery. This project is built using the **phi** library and leverages the **Grok-Beta** model for accurate responses.
+GrokAgent is a Multi-Agent System that provides various specialized agents to assist with tasks ranging from web searches and financial analysis to weather updates and joke delivery. using the **Grok-Beta** model for accurate responses.
 
 ## Features
 
